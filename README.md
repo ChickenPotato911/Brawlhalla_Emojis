@@ -1,4 +1,4 @@
-# Brawlhalla_Emojis
+# Brawlhalla_Emojis_Pack
 Download All Brawlhalla Emojis In An Organized Collection, 
 Sourced From The Brawlhalla Wiki, 
 See Here For More: https://brawlhalla.wiki.gg/wiki/Emojis#Emoji_Skins, 
