@@ -17,7 +17,7 @@ Contributions Or Suggestions For Missing Emojis Are Most Welcome! 👍
 
 ### **Option 2: Clone The Repository (Git Required)**
 ```bash
-git clone https://github.com/ChickenPotato911/Brawlhalla_Emojis.git
+git clone https://github.com/ChickenPotato911/Brawlhalla_Emojis_Pack.git
 ```
 
 Do Note That The Emojis Are Oganized Into Subfolders
